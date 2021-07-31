@@ -1,0 +1,51 @@
+.icon{
+    font-weight: bolder;
+    margin-top: 80px;
+    margin-right: 40px;
+}
+.icon-2{
+    display: inline-block;
+}
+.icon-3{
+    width: 350px;
+    height: 220px;
+    margin-right: -114px;
+}
+.icon-4{
+    width: 365px;
+    height: 220px;
+    margin-right: -68px;
+}
+.icon-5{
+    width: 365px;
+    height: 220px;
+    margin-right: 4px;
+}
+.icon-6{
+    width: 360px;
+    height: 220px;
+    margin-right: 60px;
+}
+.part-1{
+    margin-top: 16px;
+    margin-right: -114px;
+}
+.part-2{
+    margin-top: 16px;
+    margin-right: -62px;
+}
+.part-3{
+    margin-top: 16px;
+    margin-right: 10px;
+}
+.part-4{
+    margin-top: 16px;
+    margin-right: 68px;
+    width: 180px;
+}
+.section{
+    font-weight: bolder;
+    margin-top: 80px;
+    margin-right: 40px;
+}
+

@@ -1,0 +1,84 @@
+body{
+    overflow: scroll;
+}
+a{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
+.link{
+    background: linear-gradient(to right ,#ffb03d,#ee50ee);
+    border-radius: 2px;
+    margin-top: 20px;
+    padding: 8px 0px;
+    width: 1500px;
+    margin-right: -100px;
+}
+.first{
+    width: 150px !important;
+}
+.first:hover{
+    color: #fff;
+}
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    width: 29px;
+    height: 29px;
+    border-radius: 50%;
+}
+.part:hover{
+    background-color: #fff;
+    color: #ee5085;
+}
+.second{
+    display: block;
+    height: 270px;
+    width: 336px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.third{
+    display: block;
+    height: 270px;
+    width: 336px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.fourth{
+    height:560px;
+    width: 796px;
+    margin-right: 86px;
+    margin-top: 20px;
+    margin-right: -10px;
+}
+.fifth{
+    display: block;
+    height: 125px;
+    width: 340px;
+    margin-top: 20px;
+}
+.sixth{
+    display: block;
+    height: 125px;
+    width: 340px;
+    margin-top: 20px;
+}
+.seventh{
+    display: block;
+    height: 125px;
+    width: 340px;
+    margin-top: 20px;
+}
+.eighth{
+    display: block;
+    height: 125px;
+    width: 340px;
+    margin-top: 20px;
+}
+
+
+
+
